@@ -1,4 +1,4 @@
 # CORONA VIRUS ANALYSIS
 
 ## Introduction
-This is an analysis o corona virus
+This is a proect that explain the indept of corona virus damage in the country
